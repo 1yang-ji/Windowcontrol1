@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application introduction slides -->
+    <string-array name="intro_title">
+        <item>Title slide 1</item>
+        <item>Title slide 2</item>
+        <item>Title slide 3</item>
+        <item>Title slide 4</item>
+    </string-array>
+    <string-array name="intro_description">
+        <item>Description of the slide 1</item>
+        <item>Description of the slide 2</item>
+        <item>Description of the slide 3</item>
+        <item>Description of the slide 4</item>
+    </string-array>
+
+</resources>

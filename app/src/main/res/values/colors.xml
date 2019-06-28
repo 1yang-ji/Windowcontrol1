@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_background">#a4a8ab</color>
+
+    <color name="colorPrimary">#99e2be</color>
+    <color name="colorPrimaryDark">#0B7F43</color>
+    <color name="colorAccent">#448AFF</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="common_green">#009949</color>
+    <color name="common_gray">#979799</color>
+    <!--Board colors-->
+    <color name="a">#aaa9a9c1</color>
+    <color name="board_possible_move">#AA338833</color>
+    <color name="board_last_move">#AA6f001d</color>
+
+
+    <!--Player dead pieces container colors-->
+    <color name="player_header_background">#b3a297</color>
+    <color name="player_container_background">#545f68</color>
+
+    <!--Moves history dialog-->
+    <color name="dialog_header">#545f68</color>
+
+    <!--Buttons-->
+    <color name="button_disabled">#584c3e</color>
+    <color name="button_pressed">#d69048</color>
+    <color name="button_default">#a36f4a</color>
+
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="main_color">#8d95a7</color>
+    <color name="main_text_color">#ffffff</color>
+</resources>
